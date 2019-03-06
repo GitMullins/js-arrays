@@ -5,3 +5,18 @@ body{
 .dinosaur{
     border: 2px solid burlywood;
 }
+
+/* .assignment-cards{
+    text-align: center;
+    border: 1px solid orange;
+    width: 500px;
+} */
+
+.cards{
+    text-align: center;
+    border: 1px solid black;
+    background-color: white;
+    padding: 15px;
+    width: 300px;
+    margin: 15px;
+}
